@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=888888&width=600&lines=hi%2C+i'm+remminiscent%2C+but+you+can+call+me+remmi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=888888&width=600&lines=hi%2C+i'm+remminiscent%2C+but+you+can+call+me+remmi.)](https://git.io/typing-svg)
 ---
 
 ### Stack
@@ -22,9 +22,9 @@
 
 ---
  
-▸ even if it's marked final, i will find a way    
-▸ if it works i don't touch it. if it breaks i don't touch it either  
-▸ `// todo: NexusPE`
+▸ i am going to override your private properties whether u like it or not   
+▸ if it works i don't touch it. if it breaks i don't touch it either   
+▸ `// todo: NexusPE`  
 
 ---
 
