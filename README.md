@@ -21,11 +21,5 @@
 </div>
 
 ---
- 
-▸ i am going to override your private properties whether u like it or not   
-▸ if it works i don't touch it. if it breaks i don't touch it either   
-▸ `// todo: NexusPE`  
-
----
 
 <div align="center"><sub>either asleep, or coding...</sub></div>
